@@ -1,0 +1,33 @@
+{
+  "name": "com.reidx.botv13",
+  "version": "1.0.0",
+  "description": "v13 bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "v13",
+    "v13",
+    "bot",
+    "v13",
+    "altyapı",
+    "v13",
+    "butonlu",
+    "altyapı",
+    "v13",
+    "altyapı",
+    "reidx"
+  ],
+  "author": "ReiDx",
+  "license": "APACHE",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.24.0",
+    "discord.js": "^13.3.1",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.10"
+  }
+}
