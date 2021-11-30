@@ -2,6 +2,9 @@
 <p>Selamlar arkadaşlar Ben <strong>ReiDx</strong> yeni çıkmış olan <strong>Discord V13</strong> sürümüyle alakalı güzel bir V13 altyapı hazırlayıp sizlerle paylaşmak istedim. İyi kullanımlar dilerim. Bu altyapıyı değiştirip benim altyapım dememenizi rica ederim :) Herhangi bir iletişimde bulunmak isterseniz Discord Adım: ReiDx#1700
 </p>
 
+<h2>Bilgi</h2>
+<p>Arkadaşlar eğer 10 star gelirse bu botun parametre alan versiyonunu da ekleyeceğim bilginize.</p>
+
 <p>Kurulum işlemler</p>
 <ul>
 <li>Projemizi VSCode üzerinden açıyoruz.</li>
